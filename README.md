@@ -1,4 +1,4 @@
-CRUD
+CRUD operations Written in PHP for Microsoft SQL Server
 ====
 
-PHP: CRUD operations SQL Server using ODBC driver
+Crap...
