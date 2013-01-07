@@ -1,7 +1,6 @@
 <!doctype html>
 <head>
     <title>MSSQL</title>
-    <!--Подключаемые библиотеки и стили-->
     <?php include "templates/resources.php" ?>
 </head>
 
